@@ -1,6 +1,6 @@
 # Borrowell Case Study
 
-<img src="Borrowell image.png"
+![Image](Borrowell.png)
 
 
 ## Purpose
@@ -20,6 +20,8 @@ Our recommendation is to add more services to the platform. Credit Karma reporte
 
 # Authors
 Jay Davis - jaytothedavis@gmail.com
+
+Adrian Au - adrian.lang.au@gmail.com
 
 
 
