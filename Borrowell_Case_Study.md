@@ -1,5 +1,8 @@
 # Borrowell Case Study
 
+<img src="Borrowell image.png"
+
+
 ## Purpose
 Borrowell is a Canadian FinTech company. Their aim is to improve the credit score and financial health of Canadians!  Their mission is to make financial prosperity possible for everyone, according to CEO and Co-Founder Andrew Graham. 
 
